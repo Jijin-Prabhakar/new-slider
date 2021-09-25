@@ -1,0 +1,38 @@
+* {
+  border: none !important;
+}
+
+.row {
+  justify-content: center;
+}
+
+#splide {
+  display: flex;
+  justify-content: center !important;
+}
+
+#view {
+  background-color: #f5f5f5;
+}
+
+.heading {
+  margin: 0 !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+.top-head > p {
+  font-weight: bold;
+  padding-left: 50px;
+  margin: 0;
+}
+
+.top-head > span {
+  color: grey;
+  padding-left: 50px;
+}
+
+.heading > p {
+  font-size: 12px;
+  font-weight: bold;
+}
